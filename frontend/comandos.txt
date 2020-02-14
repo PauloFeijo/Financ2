@@ -1,1 +1,6 @@
 sudo npx create-react-app financ2 : cria o projeto
+sudo npm start : roda o projeto
+
+sudo yarn add react-bootstrap : componentes do bootstrap
+sudo yarn add bootstrap
+sudo yarn add @material-ui/core
